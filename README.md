@@ -2,14 +2,17 @@
 This repository includes my Cinnamon settings. Included is the `.cinnamon` folder, the `.themes` folder as well as a `dconf` dump.
 Spices and applets are listed via their UUID, so they can be easily found ad the Cinnamon spices database.
 
-## Installed Spices
-- batterymonitor@pdfcurtis
-- WindowListGroup@jake.phy@gmail.com
-
 
 ## Installed Applets
 - temperature@fevimu
+  - I like to monitor my CPU temperature from time to time.
 - sound-with-apps-volume@koutch
+  - Enables volume settings for each application currently running via Pulse
+- batterymonitor@pdfcurtis 
+  - This enables a functional battery percentage meter, since there is (or at least was) compatibility issues with my system.
+- WindowListGroup@jake.phy@gmail.com 
+  - I used MacOS for 6 years. Placing this Applet into the center of the main panel gives me back the workflow of the MacOS dock, while not looking as ugly and not taking up as much space.
+
 
 ## Theme
 |Feature|Theme|
