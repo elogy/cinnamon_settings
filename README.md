@@ -18,6 +18,16 @@ Spices and applets are listed via their UUID, so they can be easily found ad the
 |Icons|elementary-xfce-dark|
 |Cursor|DMZ black|
 
-Desktop Theme:
+### Desktop Theme
 - Tyr Himinn (slightly modified)
 
+
+### dconf dump
+All other settings (at least those I could find) are included in the file `cinnamon_settings.dconf`.
+This file can be restored via the shell:
+
+```bash
+dconf load /org/cinnamon/ < cinnamon_settings.dconf
+```
+
+Make sure you restart your Cinnamon session after the import, otherwise Cinnamon might crash.

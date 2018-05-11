@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=Pidgin IM
+Exec=pidgin
+Type=Application
+Icon=/usr/share/pixmaps/pidgin-menu.xpm

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=Skyp
+Exec=skype
+Type=Application
+Icon=/usr/share/pixmaps/skype.png

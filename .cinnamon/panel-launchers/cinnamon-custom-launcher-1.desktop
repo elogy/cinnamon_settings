@@ -1,0 +1,6 @@
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=Thunderbird
+Exec=thunderbird
+Type=Application

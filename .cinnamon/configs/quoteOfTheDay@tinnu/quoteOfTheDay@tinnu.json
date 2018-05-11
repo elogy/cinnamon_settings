@@ -1,0 +1,21 @@
+{
+    "file": {
+        "default": "/usr/share/games/fortunes/literature",
+        "type": "filechooser",
+        "description": "File:",
+        "allow-none": false,
+        "select-dir": false,
+        "value": "/usr/share/games/fortunes/de/unfug"
+    },
+    "delay": {
+        "default": 1440,
+        "type": "spinbutton",
+        "min": 1,
+        "max": 1440,
+        "description": "Update every:",
+        "units": "minutes",
+        "step": 10,
+        "value": 120
+    },
+    "__md5__": "a240f65e7d8a16921e5230d93e34d62b"
+}
