@@ -1,7 +1,11 @@
-# cinnamon_settings
+# My Cinnamon settings
 This repository includes my Cinnamon settings. Included is the `.cinnamon` folder, the `.themes` folder as well as a `dconf` dump.
-Spices and applets are listed via their UUID, so they can be easily found ad the Cinnamon spices database.
+Spices and applets are listed via their UUID, so they can be easily found ad the Cinnamon spices database. This setup is used on a maching originally running Xubuntu 16.04. 
 
+
+
+## Nautilus
+- I switched my default file manager from Dolphin (the Xubuntu standard) to Nautilus. Based on your machine, this might already be the case. If not, there are several good tutorials available online on how to change the default file manager.
 
 ## Installed Applets
 - temperature@fevimu
